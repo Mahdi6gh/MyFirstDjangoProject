@@ -1,0 +1,14 @@
+/* ===================================================================
+ * fonts.scss
+ *
+ * ------------------------------------------------------------------- */
+
+/*
+ * libre baskerville
+================================================================================ */
+@font-face {
+  font-family: "irancell medium";
+  src: url("../fonts/cinema/Irancell_Medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
